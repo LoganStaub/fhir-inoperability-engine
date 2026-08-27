@@ -1,0 +1,7 @@
+# Core Python Extract & Load Layer
+pandas==2.2.2
+duckdb==1.0.0
+
+# Analytics Transformation & Modeling Layer
+dbt-core==1.8.0
+dbt-duckdb==1.8.0
